@@ -6,8 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Opportunity-portal specific.
 token.pickle
 config.py
+credentials.json
 
 # Distribution / packaging
 .Python
