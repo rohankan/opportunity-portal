@@ -10,6 +10,10 @@ __pycache__/
 token.pickle
 config.py
 credentials.json
+drive_credentials.txt
+client_secrets.json
+output.html
+images/
 
 # Distribution / packaging
 .Python
